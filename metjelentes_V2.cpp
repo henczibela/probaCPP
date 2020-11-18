@@ -194,6 +194,6 @@ int main()
         }
         kimenet.close();
     }
-
+	// Itt a vége
     return 0;
 }
